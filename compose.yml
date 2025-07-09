@@ -1,6 +1,6 @@
 services:
   mineru-sglang:
-    image:  mineru-sglang:latest
+    image:  shawoo/mineru-sglang:latest
     container_name: mineru-sglang
     restart: always
     ports:
